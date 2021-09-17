@@ -1,5 +1,5 @@
 # bank-management-system
-A GUI-based client that emulates a bank management system and allows users to create and manage bank accounts on a local computer.
+A CLI-based client that emulates a bank management system and allows users to create and manage bank accounts on a local computer.
 
 The program lets the user create a bank account and manipulate it as per the users wish. The user is first presented with a choice to either create an account or access/modify an existing account.
 
